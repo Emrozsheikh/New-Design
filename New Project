@@ -13,6 +13,27 @@
 </head>
 
 <body>
-
+	<div class="container-full slider">
+	<nav class="navbar navbar-expand-lg navbar-light container">
+  <a href="https://seocreator.in" class="navbar-brand">
+            <img src="https://seocreator.in/wp-content/uploads/2022/03/seologo.png" width="175px;">
+        </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    
+      <ul class="nav navbar-nav ml-auto">
+<li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
+<li class="nav-item"><a class="nav-link" href="/about-us">About Us</a></li>
+<li class="nav-item dropdown"><a id="navbarDropdown" class="nav-link dropdown-toggle" role="button" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Services</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://seocreator.in/search-engine-optimization/">Search Engine Optimization</a> <a class="dropdown-item" href="https://seocreator.in/web-development/">Web Development</a> <a class="dropdown-item" href="https://seocreator.in/digital-marketing/">Digital Marketing</a> <a class="dropdown-item" href="https://seocreator.in/social-media-marketing/">Social Media Marketing</a></div>
+</li>
+<li class="nav-item"><a class="nav-link " href="https://seocreator.in/blog/">Blog</a></li>
+<li class="nav-item"><a class="nav-link " href="https://seocreator.in/contact-us/">Contact Us</a></li>
+</ul>
+	</div>
+</nav>
+</div>
 </body>
 </html>
